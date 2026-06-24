@@ -131,6 +131,7 @@ h1 em { color: var(--green); font-weight: 500; }
 .feature-list li { padding: 10px 0 10px 24px; border-bottom: 1px solid rgba(255,255,255,.08); font-size: .85rem; position: relative; }
 .feature-list li::before { content: "✓"; position: absolute; left: 0; color: #84cbb0; }
 .project-tags span { color: #c9e9dd; background: rgba(132,203,176,.1); }
+.project-link { margin-top: 24px; }
 
 .timeline-layout { align-items: start; }
 .text-link { color: var(--green); font-weight: 750; text-decoration: none; }
